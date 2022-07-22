@@ -13,7 +13,7 @@ View it properly at [degner.github.io](https://degner.github.io)
 
 ![Web image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![Repo image](/images/image1.jpg)
+![Repo image](/Points-of-sail-lrg.jpg)
 
 # Mobile
 
