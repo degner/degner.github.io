@@ -8,20 +8,17 @@ View it properly at [degner.github.io](https://degner.github.io)
 
 # Picture
 
+<img src="/light.png" width="50">
 
-<img src="https://myoctocat.com/assets/images/base-octocat.svg)" width="100">
-
-
-[[link|width=400px]]
-
-![Option text](https://myoctocat.com/assets/images/base-octocat.svg|width=50px)
-
-[[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://myoctocat.com/assets/images/base-octocat.svg)|width=100px]]
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Web image" width="50"/>
 
 
-![Web image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![Repo image](/Points-of-sail-lrg.jpg)
+
+
+
+
+
 
 # Mobile
 
