@@ -4,16 +4,24 @@ This is my new site.
 
 View it properly at [degner.github.io](https://degner.github.io)
 
-[a relative link](about.md)
+[About](about.md)
+
+[Stuff](Stuff.md)
 
 
 # Picture
 
+<img src="/light.png" width="50">
+
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Web image" width="50"/>
 
 
-![Web image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![Repo image](/Points-of-sail-lrg.jpg)
+
+
+
+
+
 
 # Mobile
 
