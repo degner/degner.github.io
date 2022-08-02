@@ -6,7 +6,7 @@ View it properly at [degner.github.io](https://degner.github.io)
 
 [About](about.md)
 
-[Stuff](stuff.md)
+[Stuff](Stuff.md)
 
 
 # Picture
