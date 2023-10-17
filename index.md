@@ -30,3 +30,9 @@ Test from iPhone.
 ## Further Test
 
 Just mucking.
+
+
+
+# Fallible
+
+If code is fallible it can fail - and the failure needs to be handled in some way.
