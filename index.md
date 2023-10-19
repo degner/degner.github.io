@@ -9,6 +9,8 @@ View it properly at [degner.github.io](https://degner.github.io)
 [Stuff](Stuff.md)
 
 
+[Pairing ZigBee Components to Home Assistant](zigbee.md)
+
 # Picture
 
 <img src="/light.png" width="50">
